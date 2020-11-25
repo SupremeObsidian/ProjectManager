@@ -19,7 +19,7 @@ These are the people to contact if any problems arise:
 * Fisher#0001
 * Kennedy S#7777
 ### Head Artist:
-(Contact for anything related to art visuals or resource pack)
+(Contact for anything related to art, visuals or resource pack)
 * pillsbury chloboy#9603
 ### Head Builder:
 (Contact for anything related to ingame building)
