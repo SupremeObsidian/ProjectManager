@@ -9,7 +9,7 @@ The goal of using GitHub for our task management is to clarify what everyone is 
 ## Team Managers
 These are the people to contact if any problems arise:
 ### Head Admin:
-(Contact for anything business related)
+(Main contact)
 * violetskyzz#4760
 ### SysAdmin:
 (Contact for anything related to the system)
@@ -18,6 +18,9 @@ These are the people to contact if any problems arise:
 (Contact for anything related to plugins)
 * Fisher#0001
 * Kennedy S#7777
+### Head Artist:
+(Contact for anything related to art visuals or resource pack)
+pillsbury chloboy#9603
 ### Head Builder:
 (Contact for anything related to ingame building)
 * haggy#1000
