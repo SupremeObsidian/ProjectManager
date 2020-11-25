@@ -26,4 +26,4 @@ These are the people to contact if any problems arise:
 * haggy#1000
 
 ### StaffTree:
-![Image of Yaktocat](https://embed.creately.com/8DCQPqgqGfj?token=OmXqd19X9hOVR8T9&type=svg)
+![Image of Yaktocat](https://embed.creately.com/8DCQPqgqGfj?token=OmXqd19X9hOVR8T9&type=jpg)
