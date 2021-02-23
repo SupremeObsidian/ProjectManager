@@ -1,4 +1,4 @@
-# Supreme Obsidian Project Manager
+# Ethera Project Manager
 ### About
 The goal of using GitHub for our task management is to clarify what everyone is working on so we can make better progress.
 
