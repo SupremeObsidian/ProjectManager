@@ -13,17 +13,16 @@ These are the people to contact if any problems arise:
 * violetskyzz#4760
 ### SysAdmin:
 (Contact for anything related to the system)
-* BlueFire#1234
+* diamkil#6969
 ### Head Developers:
 (Contact for anything related to plugins)
-* Fisher#0001
-* Kennedy S#7777
+* AdrianSR#4995  (Temporary Stand-in)
 ### Head Artist:
 (Contact for anything related to art, visuals or resource pack)
-* pillsbury chloboy#9603
+* violetskyzz#4760
 ### Head Builder:
 (Contact for anything related to ingame building)
-* haggy#1000
+* ! ! ! ! Dryter97 ! ! ! !#2941 (temporary stand-in)
 
 ### StaffTree:
 ![Image of Yaktocat](https://github.com/SupremeObsidian/ProjectManager/blob/main/SupremeObsidian%20Staff.png)
